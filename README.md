@@ -17,5 +17,9 @@ Bookmark
 https://gtfobins.github.io/
 https://lolbas-project.github.io/
 
+Good to know vefore PWK Lab
 BOF - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ this part 1 is enough PIVOTING - https://blog.techorganic.com/2012/10/06/introduction-to-pivoting-part-1-ssh/
+Pivoting
+
 IPPSEC videos - https://github.com/outflanknl/RedELK
+
